@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENOC", "ENOC\ENOC.csproj", "{DCF8CB5A-A8FF-45DB-82F7-671CE8C3CD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF8CB5A-A8FF-45DB-82F7-671CE8C3CD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF8CB5A-A8FF-45DB-82F7-671CE8C3CD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF8CB5A-A8FF-45DB-82F7-671CE8C3CD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF8CB5A-A8FF-45DB-82F7-671CE8C3CD22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C19C53CB-9019-4B7C-AE1C-1B0C468935EE}
+	EndGlobalSection
+EndGlobal
